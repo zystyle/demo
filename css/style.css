@@ -4,24 +4,26 @@ body {
 
 }
 header {
-	height: 50px;
+	height: 70px;
 	max-width: 100%;
 	width: 100%;
 
 }
 header nav {
-	width: 50%;
+	width: 60%;
 	height: 50px;
 	float: right;
-	margin-right: 20%;	
+	margin-right: 20%;
+	padding-bottom: 20px;
 }
 header nav ul {
 	list-style: none;
 	color: #000000;
 	margin-bottom: 5px;
-	height: 22px;
+	height: 45px;
 }
 ul li {
+	padding: 12px;
 	float: left;
 
 }
@@ -42,8 +44,6 @@ ul li:hover a {
 	padding: 0;
 	display: flex;
 }
-
-
 
 .resource {
 	align-items: center;
