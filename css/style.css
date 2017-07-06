@@ -5,25 +5,25 @@ body {
 }
 header {
 	height: 50px;
-	max-width:100%;
+	max-width: 100%;
+
+
+
 }
 header nav {
-	width: 90%;
+	width: 70%;
 	height: 50px;
 	float: right;
 	
 }
 header nav ul {
 	list-style: none;
-	float: left;
 	color: #000000;
 	margin-bottom: 5px;
-	margin-left: 10%;
-	margin-right: 10%;
 }
 ul li {
 	float: left;
-	margin-left: 36px;
+
 }
 ul li a {
 	color: #000000;
@@ -41,7 +41,6 @@ ul li:hover a {
 	margin-bottom: 1em;
 	padding: 0;
 	display: flex;
-	max-width:100%;
 }
 .resource {
 	align-items: center;
